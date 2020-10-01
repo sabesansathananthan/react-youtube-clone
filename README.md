@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This application is a React application. It is a clone of YouTube Application. You cloud view the application through the [link]().
+This application is a React application. It is a clone of YouTube Application. You cloud view the application through the [link](https://ytsearchclone.web.app/).
 
 You need to insert your api key inside the `handleSubmit` function in [App.js](./src/App.js).
 
