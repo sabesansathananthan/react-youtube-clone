@@ -1,4 +1,5 @@
-# React YouTube Clone Application
+
+ <h1 align="center">React YouTube Clone Application</h1>
 
 <p align="center">
 <a href="https://ytsearchclone.web.app/">
