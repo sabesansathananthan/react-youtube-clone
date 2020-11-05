@@ -46,7 +46,7 @@ cd react-youtube-search-clone
    yarn
    ```
 
-   3. Add the Youtube API key
+3. Add the Youtube API key
       
       You need to insert your api key inside the `handleSubmit` function in [App.js](./src/App.js).
 
