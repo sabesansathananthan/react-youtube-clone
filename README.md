@@ -12,6 +12,7 @@
 <p align="center">
 This application is a React application. It is a clone of YouTube Application.
 </p>
+
 ## 🛠️ Built with
 
 - [React JS](https://reactjs.org/) - Front-End JavaScript library
@@ -25,8 +26,8 @@ To setup the app for development on your local machine, please follow the instru
 1. Clone the repo to your machine
 
 ```bash
-git clone https://github.com/sabesansathananthan/React-GitHub-Resume.git
-cd React-GitHub-Resume
+git clone https://github.com/sabesansathananthan/react-youtube-search-clone.git
+cd react-youtube-search-clone
 ```
 
 2. Install packages
