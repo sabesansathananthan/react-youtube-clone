@@ -1,5 +1,9 @@
 
  <h1 align="center">React YouTube Clone Application</h1>
+ 
+<p align="center">
+This application is a React application. It is a clone of YouTube Application.
+</p>
 
 <p align="center">
 <a href="https://ytsearchclone.web.app/">
@@ -10,9 +14,7 @@
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sabesansathananthan/react-youtube-search-clone?color=yellow" />
     </a>
 </p>
-<p align="center">
-This application is a React application. It is a clone of YouTube Application.
-</p>
+
 
 ## 🛠️ Built with
 
